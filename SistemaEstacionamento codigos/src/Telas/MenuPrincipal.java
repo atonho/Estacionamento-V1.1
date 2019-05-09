@@ -587,7 +587,7 @@ public class MenuPrincipal extends javax.swing.JFrame {
     }//GEN-LAST:event_btnRelatoriosActionPerformed
 
     private void btnsobreActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnsobreActionPerformed
-        JOptionPane.showMessageDialog(rootPane, "Programa: Sys Estacionamento!\nProgramador: Adriano Zanette \nEmail:desenvolvedorzanette@gmail.com\nTel.: (62) 98456-7604\nSite:www.isystemdigital.info", "Sobre", JOptionPane.PLAIN_MESSAGE);
+        JOptionPane.showMessageDialog(rootPane, "Programa: Sys Estacionamento!\nAlunos: Antonio/Ricardo/João \n2018.5\nTel.:xxxxxxxx\nCurso: Técnologia da informação", "Sobre", JOptionPane.PLAIN_MESSAGE);
     }//GEN-LAST:event_btnsobreActionPerformed
 
     private void btnCadastroMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnCadastroMouseClicked
